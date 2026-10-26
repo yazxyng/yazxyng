@@ -16,3 +16,7 @@ Java를 중심으로 프로그래밍과 알고리즘을 공부하고 있으며,
 <p>
   <img src="https://skillicons.dev/icons?i=idea,vscode,figma,notion" />
 </p>
+
+## ★ Stats
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yazxyng&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=yazxyng)
