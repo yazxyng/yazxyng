@@ -1,7 +1,6 @@
 ## Making Every Day Count, One Step at a Time.
 하루하루를 의미 있게, 한 걸음씩 꾸준하게.
 
-
 <br>
 
 ## ★ Tech Stack
